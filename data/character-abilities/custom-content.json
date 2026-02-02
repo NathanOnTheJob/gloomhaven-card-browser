@@ -2890,7 +2890,209 @@
     "initiative": "0",
     "level": "0"
   },
-
+  {
+		"name": "controlled vitality",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-controlled-vitality.jpeg",
+		"initiative": "18",
+		"level": "1"
+	},
+	{
+		"name": "finetuning",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-finetuning.jpeg",
+		"initiative": "19",
+		"level": "1"
+	},
+	{
+		"name": "released power",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-released-power.jpeg",
+		"initiative": "22",
+		"level": "1"
+	},
+	{
+		"name": "forked energy",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-forked-energy.jpeg",
+		"initiative": "25",
+		"level": "1"
+	},
+	{
+		"name": "go with the flow",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-go-with-the-flow.jpeg",
+		"initiative": "29",
+		"level": "1"
+	},
+	{
+		"name": "leap of faith",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-leap-of-faith.jpeg",
+		"initiative": "31",
+		"level": "1"
+	},
+	{
+		"name": "tranquility",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-tranquility.jpeg",
+		"initiative": "49",
+		"level": "1"
+	},
+	{
+		"name": "bloodsport",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-bloodsport.jpeg",
+		"initiative": "74",
+		"level": "1"
+	},
+	{
+		"name": "interwined essence",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-interwined-essence.jpeg",
+		"initiative": "83",
+		"level": "1"
+	},
+	{
+		"name": "adrenal surge",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-adrenal-surge.jpeg",
+		"initiative": "15",
+		"level": "X"
+	},
+	{
+		"name": "cold-blooded",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-cold-blooded.jpeg",
+		"initiative": "30",
+		"level": "X"
+	},
+	{
+		"name": "spirit bolt",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-spirit-bolt.jpeg",
+		"initiative": "34",
+		"level": "X"
+	},
+	{
+		"name": "protective aura",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-protective-aura.jpeg",
+		"initiative": "21",
+		"level": "2"
+	},
+	{
+		"name": "vital flow",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-vital-flow.jpeg",
+		"initiative": "71",
+		"level": "2"
+	},
+	{
+		"name": "arcane blast",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-arcane-blast.jpeg",
+		"initiative": "24",
+		"level": "3"
+	},
+	{
+		"name": "embrace life",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-embrace-life.jpeg",
+		"initiative": "42",
+		"level": "3"
+	},
+	{
+		"name": "fight or flight",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-fight-or-flight.jpeg",
+		"initiative": "27",
+		"level": "4"
+	},
+	{
+		"name": "ignition",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-ignition.jpeg",
+		"initiative": "68",
+		"level": "4"
+	},
+	{
+		"name": "eternal craft",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-eternal-craft.jpeg",
+		"initiative": "17",
+		"level": "5"
+	},
+	{
+		"name": "forgotten arts",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-forgotten-arts.jpeg",
+		"initiative": "86",
+		"level": "5"
+	},
+	{
+		"name": "trusty springknife",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-trusty-springknife.jpeg",
+		"initiative": "20",
+		"level": "6"
+	},
+	{
+		"name": "delicately attuned",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-delicately-attuned.jpeg",
+		"initiative": "44",
+		"level": "6"
+	},
+	{
+		"name": "pulse check",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-pulse-check.jpeg",
+		"initiative": "9",
+		"level": "7"
+	},
+	{
+		"name": "duality of man",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-duality-of-man.jpeg",
+		"initiative": "50",
+		"level": "7"
+	},
+	{
+		"name": "brilliant bolt",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-brilliant-bolt.jpeg",
+		"initiative": "11",
+		"level": "8"
+	},
+	{
+		"name": "march to the beat",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-march-to-the-beat.jpeg",
+		"initiative": "89",
+		"level": "8"
+	},
+	{
+		"name": "plasmatic bulwark",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-plasmatic-bulwark.jpeg",
+		"initiative": "10",
+		"level": "9"
+	},
+	{
+		"name": "perfectly attuned",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-perfectly-attuned.jpeg",
+		"initiative": "28",
+		"level": "9"
+	},
+	{
+		"name": "vi-back",
+		"expansion": "custom-content",
+		"image": "character-ability-cards/custom-content/VI/cc-vi-back.jpeg",
+		"initiative": "0",
+		"level": "0"
+	},
   {
     "name": "black ice",
     "expansion": "custom-content",
