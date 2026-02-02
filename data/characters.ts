@@ -261,6 +261,16 @@ export const characters: Character[] = [
     base: true,
   },
   {
+    class: "VI",
+    colour: "#9b4132",
+    name: "vitalist",
+    game: "cc",
+    matImage: "character-mats/custom-content/cc-vitalist.jpeg",
+    matImageBack: "character-mats/custom-content/cc-vitalist-back.jpeg",
+    sheetImage: "character-perks/custom-content/cc-vitalist-perks.jpeg",
+    base: true,
+  },
+  {
     class: "WI",
     colour: "#957b9e",
     name: "wildborn",
